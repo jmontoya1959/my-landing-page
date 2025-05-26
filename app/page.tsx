@@ -11,7 +11,7 @@ export default function Home() {
       
       <main className= "min-h-screen bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-6 py-12 ">
         <header className="mb-12">
-          <h1 className="text-4xl font-bold mb-2">👋 Hi, I'm Jacob Montoya</h1>
+          <h1 className="text-4xl font-bold mb-2">👋 Hi, I&apos;m Jacob Montoya</h1>
           <p className="text-xl">Front-End Developer | JavaScript, React, Tailwind CSS</p>
         </header>
 
