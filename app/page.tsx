@@ -44,7 +44,7 @@ export default function Home() {
 
         <section>
           <h2 className="text-2xl font-semibold mb-4">📄 Resume</h2>
-          <a href="/Resume.docx" className="text-blue-500 underline" download>
+          <a href="/Resume.pdf" className="text-blue-500 underline" download>
             Download PDF
           </a>
         </section>
@@ -95,7 +95,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="/resume.docx"
+            href="/Resume.pdf"
             className="hover:text-white"
           >
             Resume
