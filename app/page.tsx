@@ -95,7 +95,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="/resume.pdf"
+            href="/resume.docx"
             className="hover:text-white"
           >
             Resume
